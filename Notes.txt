@@ -1,0 +1,14 @@
+/*
+Add this to bottom of ./assets/theme/css/style.css or equivilent
+ to reduce the weight of the copyright notice.
+
+The style .mb-0 is used for the copyright but doesn't seem to be
+ used anywhere else.
+*/
+
+/*!
+ * KEH - Added to reduce weight of copyright notice.
+ */
+ 
+.mb-0 {
+    font-weight: 300; }
