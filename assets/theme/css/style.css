@@ -424,3 +424,9 @@ nav .mbr-section-btn {
 	top: 0;
 	left: -2400px;
 }
+/*!
+ * KEH - Added to reduce weight of copyright notice.
+ */
+ 
+.mb-0 {
+    font-weight: 300; }
